@@ -1,6 +1,6 @@
 <?php
 
-	$LimitTime = 3; // Password Lock
+	$LimitTime = 3; // Count Password Lock
 	$BanTime = 1; // Minute Lock
 
 	session_start();
